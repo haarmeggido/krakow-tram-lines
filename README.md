@@ -103,4 +103,4 @@ python .\src\ktl\model\probability.py
 ## Autorzy
 - Robert Barcik, robertbarcik32@gmail.com
 - Dominik Breksa, dominikbreksa@gmail.com
-- Miłosz Góralczyk, Goralczyk.Milosz2k@gmail.com
+- Miłosz Góralczyk, goralczyk.milosz2k@gmail.com
